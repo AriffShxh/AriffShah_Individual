@@ -1,0 +1,280 @@
+
+
+*{
+	margin: 0;
+	padding: 0;
+	font-family: helvetica;
+}
+header{
+	background-image:url(BG.jpg);
+	height: 100vh;
+	background-size: cover;
+	background-position: center;
+	
+}
+
+
+
+
+
+ul {
+
+	float: left;
+	list-style-type: none;
+	margin-top: 25px;
+	padding-right: 25px;
+	padding-left: 25px;
+
+}
+
+ul li{
+	display: inline-block;
+}
+
+
+ul li a{
+		text-decoration: none;
+		color: white;
+		padding: 5px 10px;
+		border: 1px groove transparent;
+		transition: 0.5s  ease;
+	}
+
+ul li a:hover{
+	background-color: red;
+	color: white;
+
+}
+ li.active a{
+	background-color: red;
+	color: white;
+
+
+}
+
+	.jet {
+		padding-top: 20px;
+	}
+
+	.logo img{
+		float: right;
+		width: 185px;
+		height: auto;
+		margin-top: 5px;
+		margin-right: 10px;
+	}
+
+.title{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform:translate(-50%,-50%);
+}
+
+.title h1{
+		color: white;
+		font-size: 50px;
+
+}
+
+
+		
+}
+.button{
+position: absolute;
+	top: 85%;
+
+
+
+
+
+		left: 50%;
+	transform:translate(-50%,-50%);
+}
+
+.btn{
+	padding: 50px 30px;  
+	padding-bottom: 100px;
+	color: white;
+	text-decoration: none;
+}
+
+.title h2{
+
+	color: white;
+	font-size: 30px;
+	padding-top: 300px;
+
+}
+ol.c {
+  list-style-type: upper-roman;
+  color: white;
+}
+
+.tn{
+	padding: 100px 30px;  
+	padding-bottom: 100px;
+	color: white;
+	text-decoration: none;
+	position: center;
+	
+}
+
+				<style>
+				body {
+				  font-family: Arial, Helvetica, sans-serif;
+				  margin: 0;
+
+				  line-height: 1.6em;
+				}
+
+				html {
+				  box-sizing: border-box;
+				  background-color: #2F4F4F;
+				}
+
+				*, *:before, *:after {
+				  box-sizing: inherit;
+				}
+
+				.column {
+				 display: block;
+				  margin-left: auto;
+				  margin-right: auto;
+				  width: 30%;
+				  background-color: #DCDCDC;
+				  line-height: 1.6em;
+
+				 
+
+
+
+				}
+
+				.card 1 {
+				  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+				  margin: 8px;
+				  padding: 25px 50px 75px 100px;
+				    
+				}
+
+				.about-section {
+				  padding: 50px;
+				  text-align: center;
+				  background-color: #474e5d;
+				  color: white;
+				  padding-bottom: 50px;
+				  line-height: 1.6em;
+				}
+
+				.container {
+				  padding: 0 16px;
+				  padding-bottom: 15px;
+				    }
+
+				.container::after, .row::after{
+				  content: "";
+				  clear: both;
+				   display: table;
+
+				}
+
+				.titlee {
+				  color: grey;
+				}
+
+				.buttonn {
+				  border: none;
+				  outline: 0;
+				  display: inline-block;
+				  padding: 8px;
+				  color: white;
+				  background-color: #FFFFFF;
+				  text-align: center;
+				  cursor: pointer;
+				  width: 100%;
+				}
+
+				.buttonn:hover {
+				  background-color: black;
+				  transition: 0.5s  ease;
+				}
+
+				@media screen and (max-width: 650px) {
+				  .column {
+				    width: 100%;
+				    display: block;
+				  }
+				}
+
+				.creator {
+					padding-top: 30px;
+					padding-bottom: 30px;
+					color: #FFEFD5;
+					padding-bottom: 30px;
+				
+					}	
+
+				
+
+			
+				.gmbr {
+					padding-top: 30px;
+				}
+
+
+				.lol{
+					background: #333;
+					color: #fff;
+					text-align: center;
+					 padding: 10px;
+					margin: auto;
+					}
+
+			.color-3{
+			margin-bottom: 47px;
+			margin-top: 12px;
+			padding-bottom: 50px;}
+
+			.link li a i:hover{
+			color: #222222;
+			background: #d6c6b2;
+			border-color: #d6c6b2;}
+
+			.firstp{
+			margin-bottom: 30px;
+			
+			}
+
+
+			
+
+
+
+			</style>
+
+
+
+
+
+
+
+
+				
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
